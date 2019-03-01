@@ -15,6 +15,6 @@ To run the program:
 ```
 python osu!dates.py
 ``` 
-or run it directly by opening the .py file.
--If you ever want to revert back to your old dates, run restore.py
--More information in README.txt
+or run it directly by opening the .py file. If you ever want to revert back to your old dates, run restore.py
+
+More information in README.txt
