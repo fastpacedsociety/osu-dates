@@ -4,11 +4,11 @@ Makes use of osu!'s "date added" feature by changing the .osu files' creation da
 
 # Requirements
 
-—A windows platform (Windows 7+) with the [latest version of Python](https://www.python.org/downloads/). This won't work on Linux.
+* A windows platform (Windows 7+) with the [latest version of Python](https://www.python.org/downloads/). This won't work on Linux.
 
 # Installing
--Clone the repository (`git clone https://github.com/fastpacedsociety/osu-dates.git`)
--Installing python packages that the script uses (`pip install -r requirements.txt`)
+* Clone the repository (`git clone https://github.com/fastpacedsociety/osu-dates.git`)
+* Installing python packages that the script uses (`pip install -r requirements.txt`)
 
 # Usage
 To run the program:
